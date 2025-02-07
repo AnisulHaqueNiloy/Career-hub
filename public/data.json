@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/wNJMSv1/career.jpg",
+    "service_name": "Career Counseling Sessions",
+    "category": "Online",
+    "description": "This service offers one-on-one personalized career counseling to help individuals achieve their professional goals. Whether you're a student looking to decide on a major, a recent graduate entering the workforce, or a professional planning a career change, this session is tailored for you. Gain clarity on your strengths, skills, and areas of interest to determine your ideal career path. Our expert counselor will work with you to assess market trends and align your goals with current opportunities. Receive valuable advice on navigating challenges in your field of interest. The session includes resources to enhance your skills and qualifications. Learn how to build a network of contacts in your desired industry. Develop strategies for job searching, resume building, and interview preparation. Get insights into certifications or courses that can boost your career prospects. Understand how to set realistic career goals and create actionable plans to achieve them. Discuss ways to maintain motivation and adaptability in a competitive job market. Explore opportunities in emerging industries and how to position yourself for them. Learn about time management and prioritization for professional growth. Discover techniques for stress management in high-pressure environments. Get advice on creating a strong personal brand that reflects your professional identity. Understand the importance of continual learning and development in career progression. Gain confidence in decision-making for significant career transitions. The session ends with an opportunity for you to ask questions and receive personalized guidance from the counselor.",
+    "pricing": "$50",
+    "duration": "05-12-24 5:00 PM - 6:00 PM",
+    "counselor": "Dr. Emily Watson",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/6nvh5n5/resume.jpg",
+    "service_name": "Resume Review",
+    "category": "Online",
+    "description": "Our Resume Review service is a professional evaluation designed to enhance your resume's effectiveness. Get detailed feedback on how to improve your resume’s structure and format. Learn how to highlight your key accomplishments and make your skills stand out. We guide you in tailoring your resume to match specific job descriptions. Discover the importance of a compelling summary statement to grab recruiters' attention. Get insights on how to present your work experience and achievements effectively. Learn the art of quantifying results and showcasing impact in your roles. Understand how to make your resume ATS (Applicant Tracking System) compliant for better visibility. Gain advice on listing certifications, projects, and skills strategically. Get tips on handling employment gaps and career shifts professionally. Learn the significance of relevant keywords to match job postings. Understand how to balance technical and soft skills presentation. Avoid common resume mistakes with personalized feedback from our experts. Learn about modern resume trends and designs that attract recruiters. Receive tips on managing references and endorsements. Get actionable advice to create a resume that reflects your unique professional identity. Build confidence in presenting yourself through your resume. Perfect for job seekers at any stage in their careers, from freshers to experienced professionals.",
+    "pricing": "$30",
+    "duration": "07-12-24 3:00 PM - 4:00 PM",
+    "counselor": "Mr. John Smith",
+    "rating": 4.5,
+    "button": "Learn More"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/TLFk6mZ/mock.jpg",
+    "service_name": "Mock Interview Practice",
+    "category": "Group",
+    "description": "Mock Interview Practice helps you prepare for real-life interviews by simulating the experience. Work on your communication skills and gain confidence in presenting yourself. Understand the common questions asked during interviews in your field. Get personalized feedback on your answers to improve clarity and impact. Learn how to structure your responses using the STAR (Situation, Task, Action, Result) framework. Discover techniques to handle behavioral and situational questions with ease. Practice dealing with challenging questions and unexpected scenarios. Gain insights into what interviewers look for in candidates. Understand the importance of non-verbal communication, including body language and tone. Learn how to build rapport with interviewers through active engagement. Get tips on answering salary and benefits-related questions tactfully. Develop strategies to handle follow-up questions without hesitation. Learn how to conclude an interview professionally to leave a lasting impression. Receive advice on researching companies and roles effectively before an interview. Practice group discussions and case-study analysis for specific interview formats. Understand how to handle panel interviews and technical assessments. Gain exposure to different interview styles and techniques. Benefit from a Q&A session where you can clarify doubts and learn from peers. Build confidence to excel in any interview setting.",
+    "pricing": "$40",
+    "duration": "10-12-24 2:00 PM - 3:30 PM",
+    "counselor": "Ms. Sarah Lee",
+    "rating": 4.7,
+    "button": "Learn More"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/7g7Nhth/leader.jpg",
+    "service_name": "Leadership Development Workshop",
+    "category": "Offline",
+    "description": "This Leadership Development Workshop is designed to cultivate essential leadership skills. Gain a deeper understanding of what makes a great leader and how to inspire others. Learn strategies for effective decision-making, even under pressure. Understand the role of emotional intelligence in team management and leadership. Develop techniques for conflict resolution and promoting team harmony. Discover how to communicate expectations clearly and motivate your team to achieve goals. Practice providing and receiving constructive feedback to foster growth. Explore the importance of trust and collaboration within a team. Gain insights into strategic planning and setting actionable objectives. Learn to identify and nurture talent to build a high-performing team. Understand how to adapt your leadership style to meet varying team needs. Explore case studies that illustrate successful leadership in action. Practice real-world scenarios to apply leadership theories in a practical setting. Discuss the challenges of leading during periods of change or uncertainty. Learn tips for maintaining a balance between professional and personal responsibilities. Gain actionable takeaways to implement immediately in your leadership journey. The interactive format includes role-playing, group discussions, and a Q&A session. Ideal for aspiring leaders or those looking to refine their skills.",
+    "pricing": "$60",
+    "duration": "15-12-24 10:00 AM - 1:00 PM",
+    "counselor": "Mr. Robert Green",
+    "rating": 4.9,
+    "button": "Learn More"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/jyspZ17/network.jpg",
+    "service_name": "Professional Networking Tips",
+    "category": "Online",
+    "description": "This session equips you with essential skills to build and expand your professional network effectively. Learn how to approach networking with confidence and authenticity. Understand the importance of building relationships rather than just contacts. Discover how to identify and connect with key people in your industry. Get tips on crafting a compelling elevator pitch that makes an impact. Learn the best practices for leveraging online platforms like LinkedIn for networking. Understand the art of initiating meaningful conversations with professionals. Gain insights into the do’s and don’ts of networking at events and seminars. Learn how to follow up effectively after initial interactions. Explore strategies for creating long-lasting professional relationships. Understand the importance of mutual value exchange in networking. Learn to identify networking opportunities in your daily life. Get advice on building a personal brand that attracts connections. Discover how to maintain relationships through regular communication. Learn ways to ask for referrals and recommendations tactfully. Understand how to expand your network across industries and regions. Gain tips for overcoming networking anxiety and introversion. Build confidence in presenting yourself as a valuable connection. Perfect for professionals at all career stages looking to grow their influence.",
+    "pricing": "$25",
+    "duration": "18-12-24 6:00 PM - 7:00 PM",
+    "counselor": "Ms. Jessica Brown",
+    "rating": 4.6,
+    "button": "Learn More"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/SJWyRd5/confi.jpg",
+    "service_name": "Confidence Building Techniques",
+    "category": "Offline",
+    "description": "This interactive session is designed to boost your self-confidence and communication skills. Understand the root causes of self-doubt and strategies to overcome them. Learn how to project confidence in professional and social settings. Discover techniques to manage nervousness and fear of judgment. Gain insights into the power of positive self-talk and visualization. Practice building confidence through role-playing and interactive exercises. Learn how to present your ideas clearly and assertively. Understand the importance of body language in projecting confidence. Get tips for managing challenging situations with poise and composure. Learn ways to develop a growth mindset for continual self-improvement. Discover how to celebrate your achievements to build self-esteem. Gain strategies for handling criticism constructively and turning it into growth. Understand how to set realistic goals and track progress in your confidence journey. Explore techniques to enhance your verbal and non-verbal communication. Gain tips on how to leave a positive impression during introductions. Practice techniques for improving public speaking and presentations. Learn how to create a supportive environment for personal growth. Leave the session feeling empowered and ready to face challenges.",
+    "pricing": "$45",
+    "duration": "22-12-24 11:00 AM - 1:00 PM",
+    "counselor": "Dr. Michael Adams",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/2jZVdTR/port.jpg",
+    "service_name": "Portfolio Development Guidance",
+    "category": "Online",
+    "description": "This session helps you create an impressive professional portfolio tailored to your goals. Learn the importance of a well-structured portfolio in showcasing your skills. Gain tips on presenting your work visually and professionally. Understand how to select and organize your best projects effectively. Discover ways to highlight your skills and expertise through case studies. Get advice on including detailed descriptions for each portfolio item. Learn how to tailor your portfolio for different industries and job roles. Explore tools and platforms that can help you create an online portfolio. Gain insights into creating a personal brand through your portfolio. Understand the do’s and don’ts of portfolio presentation. Get feedback on existing portfolios to identify areas of improvement. Learn the art of storytelling to make your portfolio engaging. Understand how to include testimonials and client feedback for impact. Gain tips on maintaining and updating your portfolio regularly. Learn ways to incorporate multimedia elements to showcase versatility. Discover strategies for using your portfolio during interviews and networking. Receive guidance on aligning your portfolio with market trends. Leave the session with actionable steps to build a standout portfolio.",
+    "pricing": "$35",
+    "duration": "27-12-24 4:00 PM - 5:30 PM",
+    "counselor": "Ms. Olivia Wilson",
+    "rating": 4.7,
+    "button": "Learn More"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/th85DQQ/tiem.jpg",
+    "service_name": "Time Management Mastery",
+    "category": "Group",
+    "description": "Time Management Mastery is designed to help you make the most of your day and achieve your goals. Learn the principles of effective time management and prioritization. Discover how to identify and eliminate time-wasting activities. Gain insights into setting SMART goals for better productivity. Understand how to create a daily schedule that aligns with your priorities. Learn to balance long-term projects with short-term tasks efficiently. Explore techniques to manage interruptions and stay focused. Get tips on overcoming procrastination and staying motivated. Discover the role of technology in enhancing time management. Gain strategies for handling multiple tasks without feeling overwhelmed. Learn how to delegate responsibilities effectively. Understand the importance of breaks and self-care in maintaining productivity. Explore methods to track and evaluate your time usage. Gain practical tips for managing deadlines with minimal stress. Learn how to create a work-life balance that suits your needs. Practice techniques for organizing your workspace for efficiency. Participate in group discussions to learn from others' experiences. Leave the session with actionable steps to master your time and achieve more.",
+    "pricing": "$20",
+    "duration": "30-12-24 5:00 PM - 6:30 PM",
+    "counselor": "Mr. Daniel Carter",
+    "rating": 4.4,
+    "button": "Learn More"
+  }
+]

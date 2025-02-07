@@ -1,0 +1,50 @@
+[
+  {
+    "counselor": "Dr. Emily Watson",
+    "service_name": "Career Counseling Sessions",
+    "image": " https://i.ibb.co.com/jy9HPDM/32.jpg",
+    "education": "PhD in Psychology, Harvard University"
+  },
+  {
+    "counselor": "Mr. John Smith",
+    "service_name": "Resume Review",
+    "image": "https://i.ibb.co.com/6nvh5n5/resume.jpg",
+    "education": "MBA in Human Resources, Stanford University"
+  },
+  {
+    "counselor": "Ms. Sarah Lee",
+    "service_name": "Mock Interview Practice",
+    "image": "https://i.ibb.co.com/FJ2RYn7/33.jpg",
+    "education": "Masters in Organizational Behavior, Columbia University"
+  },
+  {
+    "counselor": "Mr. Robert Green",
+    "service_name": "Leadership Development Workshop",
+    "image": "https://i.ibb.co.com/3hTN0mN/5351.jpg",
+    "education": "MBA in Leadership and Strategy, University of Chicago"
+  },
+  {
+    "counselor": "Ms. Jessica Brown",
+    "service_name": "Professional Networking Tips",
+    "image": "https://i.ibb.co.com/kVn4pkq/images.jpg",
+    "education": "Masters in Public Relations, New York University"
+  },
+  {
+    "counselor": "Dr. Michael Adams",
+    "service_name": "Confidence Building Techniques",
+    "image": " https://i.ibb.co.com/smR3xhw/2224.jpg",
+    "education": "PhD in Behavioral Science, MIT"
+  },
+  {
+    "counselor": "Ms. Olivia Wilson",
+    "service_name": "Portfolio Development Guidance",
+    "image": "https://i.ibb.co.com/C2sr71J/images2.jpg",
+    "education": "Masters in Creative Design, Rhode Island School of Design"
+  },
+  {
+    "counselor": "Mr. Daniel Carter",
+    "service_name": "Time Management Mastery",
+    "image": "https://i.ibb.co.com/vYNfRty/download.jpg",
+    "education": "MBA in Productivity and Efficiency, London Business School"
+  }
+]
